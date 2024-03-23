@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/eto_d/CLionProjects/untitled/cmake-build-debug"
+			"value" : "c:/Users/eto_d/CLionProjects/untitled1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/eto_d/CLionProjects/untitled/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/eto_d/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/eto_d/CLionProjects/untitled"
+			"value" : "C:/Users/eto_d/CLionProjects/untitled1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/untitled"
+			"value" : "C:/Program Files (x86)/untitled1"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "untitled"
+			"value" : "untitled1"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1282,7 +1282,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "untitled_BINARY_DIR",
+			"name" : "untitled1_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1291,10 +1291,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/eto_d/CLionProjects/untitled/cmake-build-debug"
+			"value" : "C:/Users/eto_d/CLionProjects/untitled1/cmake-build-debug"
 		},
 		{
-			"name" : "untitled_IS_TOP_LEVEL",
+			"name" : "untitled1_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1306,7 +1306,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "untitled_SOURCE_DIR",
+			"name" : "untitled1_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/eto_d/CLionProjects/untitled"
+			"value" : "C:/Users/eto_d/CLionProjects/untitled1"
 		}
 	],
 	"kind" : "cache",
